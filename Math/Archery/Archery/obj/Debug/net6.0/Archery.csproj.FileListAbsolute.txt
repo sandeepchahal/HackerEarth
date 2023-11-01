@@ -1,0 +1,15 @@
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\bin\Debug\net6.0\Archery.exe
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\bin\Debug\net6.0\Archery.deps.json
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\bin\Debug\net6.0\Archery.runtimeconfig.json
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\bin\Debug\net6.0\Archery.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\bin\Debug\net6.0\Archery.pdb
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.csproj.AssemblyReference.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.AssemblyInfoInputs.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.AssemblyInfo.cs
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.csproj.CoreCompileInputs.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\refint\Archery.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.pdb
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\Archery.genruntimeconfig.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\Math\Archery\Archery\obj\Debug\net6.0\ref\Archery.dll
