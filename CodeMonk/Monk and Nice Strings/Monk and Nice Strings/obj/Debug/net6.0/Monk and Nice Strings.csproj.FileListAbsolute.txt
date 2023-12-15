@@ -1,0 +1,15 @@
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\bin\Debug\net6.0\Monk and Nice Strings.exe
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\bin\Debug\net6.0\Monk and Nice Strings.deps.json
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\bin\Debug\net6.0\Monk and Nice Strings.runtimeconfig.json
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\bin\Debug\net6.0\Monk and Nice Strings.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\bin\Debug\net6.0\Monk and Nice Strings.pdb
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.csproj.AssemblyReference.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.AssemblyInfoInputs.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.AssemblyInfo.cs
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.csproj.CoreCompileInputs.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\refint\Monk and Nice Strings.dll
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.pdb
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\Monk and Nice Strings.genruntimeconfig.cache
+C:\Users\SandeepSingh\OneDrive - Leapwork A S\Pictures\Personal\HackerEarth\CodeMonk\Monk and Nice Strings\Monk and Nice Strings\obj\Debug\net6.0\ref\Monk and Nice Strings.dll
