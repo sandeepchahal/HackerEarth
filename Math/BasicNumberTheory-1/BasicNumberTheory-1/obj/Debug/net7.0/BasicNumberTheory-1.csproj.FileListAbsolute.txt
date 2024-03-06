@@ -1,0 +1,15 @@
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/bin/Debug/net7.0/BasicNumberTheory-1
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/bin/Debug/net7.0/BasicNumberTheory-1.deps.json
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/bin/Debug/net7.0/BasicNumberTheory-1.runtimeconfig.json
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/bin/Debug/net7.0/BasicNumberTheory-1.dll
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/bin/Debug/net7.0/BasicNumberTheory-1.pdb
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.csproj.AssemblyReference.cache
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.AssemblyInfoInputs.cache
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.AssemblyInfo.cs
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.csproj.CoreCompileInputs.cache
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.dll
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/refint/BasicNumberTheory-1.dll
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.pdb
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/BasicNumberTheory-1.genruntimeconfig.cache
+/Users/sandeepsingh/Documents/HackerEarth/Math/BasicNumberTheory-1/BasicNumberTheory-1/obj/Debug/net7.0/ref/BasicNumberTheory-1.dll
